@@ -1,0 +1,20 @@
+{
+  "allFiles": [
+    {
+      "file": "/storage/emulated/0/git/Aide-Unofficial/app/build.gradle.kts",
+      "selection": {
+        "end": {
+          "column": 52,
+          "index": 517,
+          "line": 24
+        },
+        "start": {
+          "column": 52,
+          "index": 517,
+          "line": 24
+        }
+      }
+    }
+  ],
+  "selectedFile": "/storage/emulated/0/git/Aide-Unofficial/app/build.gradle.kts"
+}
