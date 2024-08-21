@@ -14,7 +14,22 @@
           "line": 24
         }
       }
+    },
+    {
+      "file": "/storage/emulated/0/git/Aide-Unofficial/gradle.properties",
+      "selection": {
+        "end": {
+          "column": 44,
+          "index": 408,
+          "line": 7
+        },
+        "start": {
+          "column": 44,
+          "index": 408,
+          "line": 7
+        }
+      }
     }
   ],
-  "selectedFile": "/storage/emulated/0/git/Aide-Unofficial/app/build.gradle.kts"
+  "selectedFile": "/storage/emulated/0/git/Aide-Unofficial/gradle.properties"
 }
