@@ -1,5 +1,10 @@
-# Aide-Unofficial
-AIDE-Unofficial: Keeping the AIDE Legacy Alive
+<p align="center">
+  <img src="./images/icon.png" alt="AideUnofficial" width="80" height="80"/>
+</p>
+<div align="center">
+    <h1>Aide Unofficial</h1>
+    <p>Keeping the AIDE Legacy Alive.</p>
+</div>
 
 A Tribute to AIDE and a New Beginning
 
